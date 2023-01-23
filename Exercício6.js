@@ -1,4 +1,4 @@
-Função que recebe idade e um booleano indicando se o usuario tem cnh
+//Função que recebe idade e um booleano indicando se o usuario tem cnh
 function podeDirigir(idade, cnh) {
     if (idade >= 18 && cnh == true) {
         return "Pode dirigir!";
