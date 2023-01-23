@@ -1,4 +1,4 @@
-Função que entrega troco com o mínimo de notaas possível e entrega a quantidade de cada nota utilizada
+//Função que entrega troco com o mínimo de notaas possível e entrega a quantidade de cada nota utilizada
 function gerarnotas(valor){
     let n100;
     let n50;
